@@ -11,7 +11,7 @@ Corporate finance introduced me to the art of modeling(DCF, M&A, Trading Compos 
 Data science has empowered me to handle vast amounts of data, uncover patterns, make predictions, derive actionable insights, and much more beyond numbers!  
 
 **Connect Me**  
-[![Linkedin](https://pngimg.com/image/55014)](https://www.linkedin.com/in/kejin-skylar-pu/)
+[![Linkedin](https://icon-icons.com/download/229309/PNG/512/)](https://www.linkedin.com/in/kejin-skylar-pu/)
 
 
 

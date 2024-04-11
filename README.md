@@ -12,6 +12,8 @@ Data science has empowered me to handle vast amounts of data, uncover patterns, 
 
 **🖤 Connect Me 🖤**  
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">](https://www.linkedin.com/in/kejin-skylar-pu/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="30">](https://public.tableau.com/app/profile/skylar.pu/vizzes)
+
 
 
 

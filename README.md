@@ -6,8 +6,7 @@
 
 **🤍 Quick Wrap Up 🤍**   
 From Accounting/Auditing to Corporate Finance to Data Science.  
-
-**_Such a long journey but it's been filled with joy and adventure every step of the way_** 
+**_Such a long journey but it's been filled with joy and adventure every step of the way_**   
 **_Finally we meet here_** 
 Accounting/auditing has endowed me with unparalleled numerical sensitivity.   
 Corporate finance introduced me to the art of modeling(DCF, M&A, Trading Compos Modeling...).  

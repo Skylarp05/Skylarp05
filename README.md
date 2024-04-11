@@ -5,8 +5,7 @@
 - BS in Accounting
 
 **🤍 Quick Wrap Up 🤍**   
-From Accounting/Auditing to Corporate Finance to Data Science.  
-**_Such a long journey but it's been filled with joy and adventure every step of the way, and I'm so glad that finally we meet here_**   
+**_From Accounting/Auditing to Corporate Finance to Data Science. Such a long journey but it's been filled with joy and adventure every step of the way, and I'm so glad that finally we meet here_**   
 - Accounting/auditing has endowed me with unparalleled numerical sensitivity.   
 - Corporate finance introduced me to the art of modeling(DCF, M&A, Trading Compos Modeling...).  
 - Data science has empowered me to handle vast amounts of data, uncover patterns, make predictions, derive actionable insights, and much more beyond numbers!  

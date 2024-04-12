@@ -8,7 +8,23 @@
 **_From Accounting/Auditing to Corporate Finance to Data Science. Such a long journey but it's been filled with joy and adventure every step of the way, and I'm so glad that finally we met here._**   
 - Accounting/auditing has endowed me with unparalleled numerical sensitivity.   
 - Corporate finance introduced me to the art of modeling(DCF, M&A, Trading Compos Modeling...).  
-- Data science has empowered me to handle vast amounts of data, uncover patterns, make predictions, derive actionable insights, and much more beyond numbers!  
+- Data science has empowered me to handle vast amounts of data, uncover patterns, make predictions, derive actionable insights, and much more beyond numbers!
+
+**💚 Language & Tools 💚**
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">](https://www.mysql.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">](https://www.microsoft.com/en-us/sql-server)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">](https://www.r-project.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">](https://www.rstudio.com/categories/rstudio-ide/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">](https://www.python.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">](https://pandas.pydata.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">](https://numpy.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">](https://scikit-learn.org/stable/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">](https://matplotlib.org/stable/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">](https://seaborn.pydata.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">](https://www.tensorflow.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">](https://pytorch.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">](https://hive.apache.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">](https://cloud.google.com/?hl=en)
 
 **🖤 Connect Me 🖤**  
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">](https://www.linkedin.com/in/kejin-skylar-pu/)

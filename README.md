@@ -11,8 +11,8 @@
 - Data science has empowered me to handle vast amounts of data, uncover patterns, make predictions, derive actionable insights, and much more beyond numbers!
 
 **💚 Language & Tools 💚**
-[<img src="https://www.mysql.com/common/logos/mysql-logo.svg" alt="MySQL Logo" width="30">](https://www.mysql.com/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">](https://www.microsoft.com/en-us/sql-server)
+[<img src="https://www.mysql.com/common/logos/mysql-logo.svg" alt="MySQL Logo" width="50">](https://www.mysql.com/)  
+[<img src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-18.png" width="30">](https://www.microsoft.com/en-us/sql-server)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">](https://www.r-project.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">](https://www.rstudio.com/categories/rstudio-ide/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">](https://www.python.org/)

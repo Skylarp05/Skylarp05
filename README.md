@@ -24,7 +24,8 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">](https://www.tensorflow.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">](https://pytorch.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">](https://hive.apache.org/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">](https://cloud.google.com/?hl=en)
+[<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="30">](https://cloud.google.com/?hl=en)
+
 
 **🖤 Connect Me 🖤**  
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">](https://www.linkedin.com/in/kejin-skylar-pu/)

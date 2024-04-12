@@ -10,7 +10,7 @@
 - Corporate finance introduced me to the art of modeling(DCF, M&A, Trading Compos Modeling...).  
 - Data science has empowered me to handle vast amounts of data, uncover patterns, make predictions, derive actionable insights, and much more beyond numbers!
 
-**💚 Language & Tools 💚**
+**💚 Language & Tools 💚**  
 [<img src="https://www.mysql.com/common/logos/mysql-logo.svg" alt="MySQL Logo" width="50">](https://www.mysql.com/)  
 [<img src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-18.png" width="30">](https://www.microsoft.com/en-us/sql-server)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">](https://www.r-project.org/)

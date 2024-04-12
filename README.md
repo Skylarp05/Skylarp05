@@ -15,7 +15,7 @@
 [<img src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-18.png" width="30">](https://www.microsoft.com/en-us/sql-server)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.png" width="30">](https://www.r-project.org/)
 [<img src="https://www.rstudio.com/wp-content/uploads/2020/10/RStudio-Logo-Flat.png" width="30">](https://www.rstudio.com/categories/rstudio-ide/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30">](https://www.python.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50">](https://www.python.org/)
 [<img src="https://pandas.pydata.org/static/img/pandas.svg" width="30">](https://pandas.pydata.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">](https://numpy.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">](https://scikit-learn.org/stable/)

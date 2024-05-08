@@ -1,5 +1,6 @@
 # Hi Here's Kejin (Skylar) Pu. It is so nice to have you there.🩵
 **🩶 About me 🩶**
+- Data Science & Data Analysis
 - Pre-Financial Business Analyst, Auditor    
 - MS in Business Analyst @University of Minnesota & Corporate Finance @Penn State  
 - BS in Accounting

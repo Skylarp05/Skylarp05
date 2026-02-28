@@ -1,4 +1,4 @@
-# Hi Here's Kejin (Skylar) Pu. It is so nice to have you there.🩵
+# Hi Here's Kejin (Skylar) Pu.🩵
 **🩶 About me 🩶**
 - Data Science & Data Analysis
 - Pre-Financial Business Analyst   
